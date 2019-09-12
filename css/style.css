@@ -25,7 +25,7 @@ body {
 	background-color: #f3f3f3;
 	background-image: url(./20170120233545_YLQvr.jpeg);
 	background-size:cover;
-	background-repeat: repeat;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 0px 0px; 
 	color: #444;
